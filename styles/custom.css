@@ -1,17 +1,3 @@
-@font-face {
-    font-family: 'JMH Typewriter';
-    src: url('JMHTypewriter-Black.woff2') format('woff2'),
-        url('JMHTypewriter-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'JMH Typewriter';
-    src: url('JMHTypewriter-Regular.woff2') format('woff2'),
-        url('JMHTypewriter-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 
 
 
@@ -23,14 +9,14 @@ h1,h2,h3,h4{
 }
 
 h1{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:900;
     font-size: 70px;
     line-height: 90%;
 }
 
 h2{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:900;
     font-size: 50px;
     line-height: 90%;
@@ -46,7 +32,7 @@ h3{
 }
 
 h5{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:500;
     font-size: 18px; 
     margin-top: 20px;
@@ -55,7 +41,7 @@ h5{
 }
 
 h6{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:500;
     font-size: 18px; 
     margin-top: 20px;
@@ -64,21 +50,21 @@ h6{
 }
 
 .p1{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:normal;
     font-size: 16px;
     margin-right: 10px;
 }
 
 .p2{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:normal;
     font-size: 16px;
     margin-right: 10px;
 }
 
 .p3{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:normal;
     font-size: 16px;
     margin-right: 10px;
@@ -86,7 +72,7 @@ h6{
 }
 
 .p4{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:normal;
     font-size: 14px;
     margin-right: 10px;
@@ -94,7 +80,7 @@ h6{
 }
 
 .p5{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:normal;
     font-size: 14px;
     margin-right: 10px;
@@ -111,7 +97,7 @@ h6{
 }
 
 .quote2{
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     font-size: 14px;
     color:#241C2B;
     font-weight: 700;
@@ -141,7 +127,7 @@ p6{
   }
 
 .nav-link{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-size:18px;
     font-weight:600;
     color:#241C2B;
@@ -150,7 +136,7 @@ p6{
 }
 
 .nav-link2{
-    font-family:"Jmh Typewriter";
+    font-family:"Averia Serif Libre";
     font-size:18px;
     font-weight:600;
     background: #FF422E;
@@ -474,7 +460,7 @@ color:#FF422E;
 /*oorzaak*/
 .title_centered{
    text-align:center;
-   font-family:"JMH Typewriter";
+   font-family:"Averia Serif Libre";
    font-weight:900;
    font-size:50px;
 }
@@ -498,7 +484,7 @@ color:#FF422E;
 margin-left: 15px;
 margin-right: 15px;
 padding-bottom: 30px;
-font-family:"JMH Typewriter";
+font-family:"Averia Serif Libre";
 color: white;
 }
 
@@ -636,13 +622,13 @@ form{
 .btn-primary{
     display:inline-block;
     margin-top:-2px;
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     color:white;
     margin-left:10px;
 }
 
 label{
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     color:white;
     margin-left:10px;
 }
@@ -690,12 +676,12 @@ padding: 20px;
     font-size:16px;
     padding: 5px;
     margin-top:-10px;
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     font-weight:700;
 }
 
 .funding_question{
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     font-size:28px;
     font-weight:700;
     color:white;
@@ -703,7 +689,7 @@ padding: 20px;
 }
 
 .funding_question2{
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     font-size:28px;
     font-weight:700;
     color:white;
@@ -739,7 +725,7 @@ padding: 20px;
  }
 
 .underscript{
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     font-size:12px;
     font-weight:600;
     color:#241C2B
@@ -750,7 +736,7 @@ padding: 20px;
     padding: 10px;
     background-color:#241C2B;
     color:white;
-    font-family:"JMH Typewriter";
+    font-family:"Averia Serif Libre";
     font-size:14px;
     border-radius:5%;
     margin-right:5px;
