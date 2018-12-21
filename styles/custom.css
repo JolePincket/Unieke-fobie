@@ -15,8 +15,8 @@
 
 @font-face {
     font-family: 'Homemade Apple';
-    src: url('fonts/homemade_apple/HomemadeApple-Regular.woff2') format('woff2'),
-        url('fonts/homemade_apple/HomemadeApple-Regular.woff') format('woff');
+    src: url('../fonts/homemade_apple/HomemadeApple-Regular.woff2') format('woff2'),
+        url('../fonts/homemade_apple/HomemadeApple-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
